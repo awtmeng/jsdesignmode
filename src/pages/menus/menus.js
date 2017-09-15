@@ -11,6 +11,10 @@ class Menus extends Component {
                 </div>
                 <ul>
                     <li><Link to="/firstChapter">第一节课灵魂的语言</Link> </li>
+                    <li><Link to="/secondChapter">第二节课面向对象编程</Link></li>
+                    <li><Link to="/threeChapter">第三节课简单工厂模式</Link></li>
+                    <li><Link to="/fourChapter">第四节课工厂方法模式</Link></li>
+                    <li><Link to="/fiveChapter">第四节课工厂方法模式</Link></li>
                 </ul>
             </div>
         );
